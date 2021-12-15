@@ -51,6 +51,6 @@ namespace Nebula {
             Console.WriteLine("Prompt");
             ConsoleKeyInfo a = Console.ReadKey();
             if (a.Key == ConsoleKey.Y) { return true; } else return false;
-        }
+        } 
     }
 }

@@ -17,4 +17,4 @@ Compassion is a simple, yet useful library containing functions like: <br><br>
 `custom border. This will return a string.`
 
 - `YesNoChoice(string: Prompt); - Present a y/n option, pre-expressed with a prompt. This will return a bool.`
-`Hello`
+`Hello` 
