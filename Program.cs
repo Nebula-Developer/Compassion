@@ -17,6 +17,11 @@ namespace Compassion
             Console.WriteLine("Loading Libraries...");
             es.Hold(100);
             List<string> files = new List<string>();
+
+            foreach (string f in Directory.GetFiles("./Projects")) {
+                files.Add(f);
+            }
+
             Console.WriteLine("Done.");
         }
     }
