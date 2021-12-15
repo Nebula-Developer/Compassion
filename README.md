@@ -1,2 +1,2 @@
 # Compassion
- An amazing programming language designed in C#. 
+- Version 1.0, Will Update ReadMe Later.
