@@ -1,0 +1,15 @@
+/Users/nicocook/Documents/GitHub/Compassion/bin/Debug/net5.0/Compassion.deps.json
+/Users/nicocook/Documents/GitHub/Compassion/bin/Debug/net5.0/Compassion.runtimeconfig.json
+/Users/nicocook/Documents/GitHub/Compassion/bin/Debug/net5.0/Compassion.runtimeconfig.dev.json
+/Users/nicocook/Documents/GitHub/Compassion/bin/Debug/net5.0/Compassion.dll
+/Users/nicocook/Documents/GitHub/Compassion/bin/Debug/net5.0/ref/Compassion.dll
+/Users/nicocook/Documents/GitHub/Compassion/bin/Debug/net5.0/Compassion.pdb
+/Users/nicocook/Documents/GitHub/Compassion/obj/Debug/net5.0/Compassion.csproj.AssemblyReference.cache
+/Users/nicocook/Documents/GitHub/Compassion/obj/Debug/net5.0/Compassion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicocook/Documents/GitHub/Compassion/obj/Debug/net5.0/Compassion.AssemblyInfoInputs.cache
+/Users/nicocook/Documents/GitHub/Compassion/obj/Debug/net5.0/Compassion.AssemblyInfo.cs
+/Users/nicocook/Documents/GitHub/Compassion/obj/Debug/net5.0/Compassion.csproj.CoreCompileInputs.cache
+/Users/nicocook/Documents/GitHub/Compassion/obj/Debug/net5.0/Compassion.dll
+/Users/nicocook/Documents/GitHub/Compassion/obj/Debug/net5.0/ref/Compassion.dll
+/Users/nicocook/Documents/GitHub/Compassion/obj/Debug/net5.0/Compassion.pdb
+/Users/nicocook/Documents/GitHub/Compassion/obj/Debug/net5.0/Compassion.genruntimeconfig.cache
