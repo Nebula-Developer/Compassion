@@ -11,7 +11,7 @@ Compassion is a simple, yet useful library containing functions like: <br><br>
 
 - `RandomStringFromArray(string[]: ArrayToRandomise); - Get a random string from the given array. This will return a string.`
 
-- `RandomChance(int: Chance); - Give the result 'true' if the randomization from the chance was successful. This will return a bool.`
+- `RandomChance(int: Chance); - Give the result 'true' if the randomisation from the chance was successful. This will return a bool.`
 
 - `PromptBorder(string: BorderChars, int: BorderLength, string: Prompt, int: Spacing, bool: EvenBorder); - Supply a prompt surrounded by a `
 `custom border. This will return a string.`
