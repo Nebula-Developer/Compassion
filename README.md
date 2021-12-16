@@ -18,3 +18,5 @@ Compassion is a simple, yet useful library containing functions like: <br><br>
 
 - `YesNoChoice(string: Prompt); - Present a y/n option, pre-expressed with a prompt. This will return a bool.`
 `Hello` 
+
+To get an example of all of these functions, please compile and run Program.cs, and select to list all functions.

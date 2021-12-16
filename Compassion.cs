@@ -45,11 +45,13 @@ namespace Nebula {
             for (int i = 0; i < BorderLength; i++) {
                 Console.Write(BorderChars);
             }
+
+            Console.Write("\n");
         }
 
-        public static bool YesNoChoice(string Prompt = "[y/n]") {
-            Console.WriteLine("Prompt");
-            ConsoleKeyInfo a = Console.ReadKey();
+        public static bool YesNoChoice(string Prompt = "[y/n]", bool hideInput = true) {
+            Console.WriteLine(Prompt);
+            ConsoleKeyInfo a = Console.ReadKey(hideInput);
             if (a.Key == ConsoleKey.Y) { return true; } else return false;
         } 
     }
